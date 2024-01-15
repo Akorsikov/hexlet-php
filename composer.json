@@ -1,0 +1,18 @@
+{
+    "name": "alex/hexlet-php",
+    "description": "PHP: Настройка окружения Composer",
+    "version": "1.0.0-dev",
+    "type": "project",
+    "keywords": "composer, php-project",
+    "homepage": "https://ru.hexlet.io/courses/php-setup-enviroment/lesson/composer/theory_unit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akorsikov",
+            "email": "akors@mail.ru",
+            "homepage": "https://ru.hexlet.io/u/akors",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
