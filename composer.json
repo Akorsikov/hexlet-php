@@ -3,8 +3,8 @@
     "description": "PHP: Настройка окружения Composer",
     "version": "1.0.0-dev",
     "type": "project",
-    "keywords": "composer, php-project",
-    "homepage": "https://ru.hexlet.io/courses/php-setup-enviroment/lesson/composer/theory_unit",
+    "keywords": ["composer", "php-project"],
+    "homepage": "https://ru.hexlet.io/courses/php-setup-environment",
     "license": "MIT",
     "authors": [
         {
@@ -14,5 +14,7 @@
             "role": "Developer"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
