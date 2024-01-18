@@ -6,6 +6,11 @@
     "keywords": ["composer", "php-project"],
     "homepage": "https://ru.hexlet.io/courses/php-setup-environment",
     "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "authors": [
         {
             "name": "Akorsikov",
